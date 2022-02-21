@@ -1,2 +1,2 @@
-# conclave
+# Conclave
 Test project
